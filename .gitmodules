@@ -1,0 +1,3 @@
+[submodule "my-jokes-app"]
+	path = my-jokes-app
+	url = https://github.com/happisoul/jokes-application.git
